@@ -9,7 +9,7 @@
     "resolve-install": "npx npm-force-resolutions && npm install"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "fecha": "^4.2.0",
     "seedrandom": "^3.0.5",
